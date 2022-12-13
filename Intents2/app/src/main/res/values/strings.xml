@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="sample_string_key">TextPassInIntentKey</string>
+    <string name="sample_string_Value">Here is my text</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
